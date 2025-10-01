@@ -16,7 +16,7 @@ A simple project to install and use ChatGPT from your terminal.   This repo prov
 
 ---
 
-### 🔹 Step 3: Test on Your PC
+**### 🔹 Step 3: Test on Your PC**
 - Make sure you have **Python 3.8+** installed.  
 - Install dependencies and run it.  
 - If it works, your repo is ready for others.  
