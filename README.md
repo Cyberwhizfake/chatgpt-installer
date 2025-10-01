@@ -5,7 +5,7 @@ A simple project to install and use ChatGPT from your terminal.   This repo prov
 ## 🚀 Setup
  1. Clone this repo:
    ```bash
-   git clone https://github.com/Cyberwhizfake/chatgpt-installer.git
+ 1.git clone https://github.com/Cyberwhizfake/chatgpt-installer.git
    cd chatgpt-installer
  2.Install dependencies:
    pip install -r requirements.txt
